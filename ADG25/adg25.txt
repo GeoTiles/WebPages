@@ -1,0 +1,20 @@
+Overview & Scope
+
+Automated Deduction in Geometry (ADG) is a forum to exchange ideas and views, to present research results and progress, and to demonstrate software tools at the intersection between geometry and automated deduction.
+Scope
+
+Relevant topics include (but are not limited to):
+
+    polynomial algebra, invariant and coordinate-free methods;
+    probabilistic, synthetic, and logic approaches, techniques for automated geometric reasoning from discrete mathematics, combinatorics, and numeric;
+    interactive theorem proving in geometry;
+    symbolic and numeric methods for geometric computation, geometric constraint solving, automated generation/reasoning and manipulation with diagrams;
+    design and implementation of geometry software, automated theorem provers, special-purpose tools, experimental studies;
+    applications of ADG in mechanics, geometric modeling, CAGD/CAD, computer vision, robotics and education;
+    automated deduction in non-euclidean geometries;
+    artificial intelligence methods in automated reasoning in geometry;
+    applications in education of automated deduction in geometry.
+
+CADE 30
+
+ADG2025 will be a satellite event of CADE30 and it will take place from 1-2 August, in Stuttgart, Germany.
