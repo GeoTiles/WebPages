@@ -1,0 +1,91 @@
+Call for papers
+Call for Extended Abstracts
+ADG 202
+
+Fifteenth International Conference on Automated Deduction in Geometry
+
+1, 2 of August 2025,  Stuttgart, Germany (satellite event of CADE30)
+
+https://www.uc.pt/events/adg/2025/
+
+Overview
+
+ADG is a forum to exchange ideas and views, to present research
+results and progress, and to demonstrate software tools at the
+intersection between geometry and automated deduction. 
+
+The conference is held every two years. The previous editions of ADG
+were held in Belgrade, in 2023, Hagenberg in 2021 (online, postponed
+from 2020 due to COVID-19), Nanning in 2018, Strasbourg in 2016,
+Coimbra in 2014, Edinburgh in 2012, Munich in 2010, Shanghai in 2008,
+Pontevedra in 2006, Gainesville in 2004, Hagenberg in 2002, Zürich in
+2000, Beijing in 1998, and Toulouse in 1996.
+
+The 15th edition, ADG 2025, will be held, 1, 2 of August 2025,
+Stuttgart, Germany
+
+Scope
+Relevant topics include (but are not limited to):
+
+    polynomial algebra, invariant and coordinate-free methods;
+    probabilistic, synthetic, and logic approaches, techniques for automated geometric reasoning from discrete mathematics, combinatorics, and numeric;
+    interactive theorem proving in geometry;
+    symbolic and numeric methods for geometric computation, geometric constraint solving, automated generation/reasoning and manipulation with diagrams;
+    design and implementation of geometry software, automated theorem provers, special-purpose tools, experimental studies;
+    applications of ADG in mechanics, geometric modeling, CAGD/CAD, computer vision, robotics and education;
+    automated deduction in non-euclidean geometries;
+    artificial intelligence methods in automated reasoning in geometry;
+    applications in education of automated deduction in geometry.
+
+Submission Guidelines
+
+We invite submission of extended abstracts (3 to 12 pages).
+
+The submissions abstracts must address the following aspects explicitly.
+
+    Problem: What is the problem/question/objective?
+    Motivation: Why do we work on the problem? What is the importance?
+    State of the Art: What has been done already on the problem?
+    Contribution: What is the main original contribution?
+    Main Idea: What is the main idea underlying the contribution?
+
+The submissions should follow the standard Springer LNCS Proceedings format.
+
+Submission for all events is via the main conference (CADE30)
+ EasyChair, https://easychair.org/conferences/?conf=cade30, which will
+ ask the submitter to select the proper track.  
+
+
+Refereeing and Publication
+
+The submitted extended abstracts will be reviewed by the Program
+Committee.
+
+Informal proceedings (of abstracts accepted for presentation) will be
+available from the conference web page. The authors are free to submit
+their abstracts for publication in other forums.
+
+The authors of extended abstracts accepted for presentation at the
+conference will be invited to submit their full papers for publication
+in formal post proceedings of ADG 2025 after the conference. A special
+issue in Annals of Mathematics and Artificial Intelligence (AMAI) was
+organized for ADG 2021 and 2023, former post-proceedings for ADG
+appeared as special issues of Lecture Notes in Artificial Intelligence
+(LNAI).
+
+All participants are encouraged to bring along posters on their
+geometric work (irrespective of whether it is to be presented at the
+conference) for display during ADG 2025.
+
+Important Dates
+
+    1 of June: extended abstracts submission
+    29 of June: notification of acceptance
+    1, 2 of August 2025: Workshop
+
+Invited Speakers
+
+???
+
+
+
