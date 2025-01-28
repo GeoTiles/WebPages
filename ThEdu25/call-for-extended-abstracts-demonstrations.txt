@@ -1,3 +1,43 @@
 Call for Extended Abstracts & Demonstrations
 
-T.B.A.
+Topics of interest include:
+  * interactive and automated theorem provers designed or adapted
+    for education;
+  * methods of automated deduction applied to checking students' input;
+  * combinations of deduction and computation enabling systems to
+    propose next step guidance;
+  * combination of symbolic artificial intelligence and machine
+    learning for the teaching of proof and proving;
+  * design of libraries of statements and/or formal proofs for use
+    in educational systems;
+  * graphical user interfaces for theorem proving in the classroom;
+  * specific systems integrated in educational components such as
+    dynamic geometry software, automatic provers providing readable
+    output or explicit counter examples, etc.;
+  * the role of logic and formal systems in the didactic of proof
+    and proving in mathematics education;
+  * experience reports about the use of automatic or interactive
+    theorem provers for teaching.
+  * evaluation of the impact of intelligent tutoring systems 
+    for proof and proving
+
+Submissions:
+
+   We welcome submissions of extended abstracts and demonstration
+   proposals presenting original unpublished work which is not been
+   submitted for publication elsewhere.
+
+   All accepted extended abstracts and demonstrations will be presented
+   at the workshop. Abstracts will be made available online.
+
+   Extended abstracts and demonstration proposals should be submitted
+   via easychair in the dedicated track of CADE-30 https://easychair.org/my/conference?conf=cade30, 
+   formatted according to http://www.easychair.org/publications/easychair.zip
+   Extended abstracts and demonstration proposals should be 5-10 pages (excluding bibliography and potential appendix)
+   in length and are to be submitted in PDF format.
+
+   At least one of the authors of each accepted extended
+   abstract/demonstration proposal is expected to attend THedu'25 and
+   presents their extended abstract/demonstration.
+
+
