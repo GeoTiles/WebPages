@@ -39,7 +39,7 @@ Relevant topics include (but are not limited to):
 
 Submission Guidelines
 
-We invite submission of extended abstracts (3 to 12 pages).
+We invite submission of extended abstracts (3 to 12 pages excluding bibliography).
 
 The submissions abstracts must address the following aspects explicitly.
 
@@ -51,12 +51,12 @@ The submissions abstracts must address the following aspects explicitly.
 
 The submissions should follow the standard Springer LNCS Proceedings format.
 
-Submission for all events is via the main conference (CADE30)
+Submission for ADG is via the host conference (CADE30)
  EasyChair, https://easychair.org/conferences/?conf=cade30, which will
  ask the submitter to select the proper track.  
 
 
-Refereeing and Publication
+Refereeing and Publication:
 
 The submitted extended abstracts will be reviewed by the Program
 Committee.
@@ -73,14 +73,11 @@ organized for ADG 2021 and 2023, former post-proceedings for ADG
 appeared as special issues of Lecture Notes in Artificial Intelligence
 (LNAI).
 
-All participants are encouraged to bring along posters on their
-geometric work (irrespective of whether it is to be presented at the
-conference) for display during ADG 2025.
 
 Important Dates
 
-    1 of June: extended abstracts submission
-    29 of June: notification of acceptance
+    1 of May: extended abstracts submission
+    1 of June: notification of acceptance
     1, 2 of August 2025: Workshop
 
 Invited Speakers
