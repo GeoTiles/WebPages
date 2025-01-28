@@ -1,5 +1,13 @@
 Call for Extended Abstracts & Demonstrations
 
+14th International Workshop on Theorem proving components for Educational software
+
+1, 2 of August 2025,  Stuttgart, Germany (satellite event of CADE30)
+
+https://www.uc.pt/events/thedu/thedu25
+
+Overview
+
 Topics of interest include:
   * interactive and automated theorem provers designed or adapted
     for education;
@@ -31,13 +39,16 @@ Submissions:
    at the workshop. Abstracts will be made available online.
 
    Extended abstracts and demonstration proposals should be submitted
-   via easychair in the dedicated track of CADE-30 https://easychair.org/my/conference?conf=cade30, 
-   formatted according to http://www.easychair.org/publications/easychair.zip
-   Extended abstracts and demonstration proposals should be 5-10 pages (excluding bibliography and potential appendix)
-   in length and are to be submitted in PDF format.
+   via easychair in the dedicated track of CADE-30 https://easychair.org/my/conference?conf=cade30,    formatted according to http://www.easychair.org/publications/easychair.zip
+   Extended abstracts and demonstration proposals should be 5-10 pages (excluding bibliography and potential appendix)   in length and are to be submitted in PDF format.
 
    At least one of the authors of each accepted extended
-   abstract/demonstration proposal is expected to attend THedu'25 and
+   abstract/demonstration proposal is expected to attend THedu'25 and 
    presents their extended abstract/demonstration.
 
+Important Dates
+
+Extended Abstracts 	1 May 2025
+Author Notification 	1 June 2025
+Workshop Day 	1, 2 of August 2025
 
