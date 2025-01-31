@@ -16,5 +16,5 @@ Jørgen Villadsen, Technical University of Denmark, Denmark
 M. Pilar Velez, Universidad Antonio de Nebrija, Spain
 Wolfgang Schreiner, Johannes Kepler University Linz, Austria
 Walther Neuper, Johannes Kepler University Linz, Austria
-
-
+Jim Portegies, Eindhoven University of Technology, netherlands
+Anders Schlichtkrull, Aalborg University, Denmark
