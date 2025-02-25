@@ -10,16 +10,19 @@ Julien Narboux, UFR Informatique, University Paris Cité, France
 
 Program Committee:
 
-Pedro Quaresma, University of Coimbra, Portugal
-Julien Narboux, University Paris Cité, France
-Zoltán Kovács, The Private University College of Education of the Diocese of Linz, Austria
-Tomas Recio, Universidad Antonio de Nebrija, Spain
 Pierre Boutry, University of Strasbourg, France
-Jacques Fleuriot, University of Edinburgh, United Kingdom
-Vesna Marinkovic, University of Belgrade, Serbia
-Tetsuo Ida, University of Tsukuba, Japan
-M. Pilar Velez, Universidad Antonio de Nebrija, Spain
-Predrag Janicic, University of Belgrade, Serbia
 Thierry Dana-Picard, Jerusalem College of Technology, Israel
-Pavel Pech, University of South Bohemia, Czechia
+Jacques Fleuriot, University of Edinburgh, United Kingdom
+Tetsuo Ida, University of Tsukuba, Japan
+Predrag Janičić, University of Belgrade, Serbia
+Zoltán Kovács, The Private University College of Education of the Diocese of Linz, Austria
+Vesna Marinkovic, University of Belgrade, Serbia
+Julien Narboux, University Paris Cité, France
+Pavel Pech, University of South Bohemia, České Budějovice 
+María Pilar Vélez, Universidad Nebrija, Spain
+Pedro Quaresma, University of Coimbra, Portugal
+Tomas Recio, Universidad Antonio de Nebrija, Spain
+Ileana Streinu, Smith College, USA
 Dingkang Wang, Chinese Academy of Sciences, China
+Dongming Wang, Beihang University, China
+Jing Yang, Guangxi University for Nationalities, China
