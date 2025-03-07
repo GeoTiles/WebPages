@@ -7,3 +7,8 @@ This interest group intends to gather the research communities for computer Theo
 The ThEdu maiing list archives can be consulted in thedu_archives.
 
 ThEdu'25, will be a satellite event of the 30th International Conference on Automated Deduction (CADE-30) that will take place from July 28th to July 31st, 2025 in Stuttgart, Germany, with workshops and satellite events on August 1st and 2nd.
+
+Invited Speakers
+
+Vesna Marinković, University of Belgrade, Serbia
+Title: T.B.A.
